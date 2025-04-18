@@ -7,7 +7,7 @@ Um projeto básico utilizando [Flask](https://flask.palletsprojects.com/) que ex
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/hello-flask.git
+git clone https://github.com/rebequinia/DevOps_HelloWorld.git
 cd hello-flask
 ```
 
@@ -37,7 +37,7 @@ Acesse no navegador: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 ## 🗂 Estrutura do Projeto
 
 ```
-hello_flask/
+DevOps_HelloWorld/
 │
 ├── app.py               # Script principal do Flask
 ├── requirements.txt     # Dependências do projeto
