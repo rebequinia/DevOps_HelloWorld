@@ -44,3 +44,4 @@ def test_api_post_and_get_flow(client):
     json_data = get_response.get_json()
     assert get_response.status_code == 200
     assert json_data['message'] == 'Mensagem Teste Fluxo'
+
